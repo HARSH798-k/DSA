@@ -1,4 +1,4 @@
-// Star pattern using the nested loops 
+// Star pattern using the nested loops .
 
 class Star{
     static void star(int n){
